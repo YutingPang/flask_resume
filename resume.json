@@ -1,0 +1,97 @@
+{
+"basics": {
+"firstname" : "Yuting",
+"lastname" : "Pang",
+"name": "Yuting Pang",
+"picture": "",
+"email": "4yutingpang@gmail.com",
+"phone": "+1(408) 641-7886",
+"website": "http://yutingpang.com",
+"summary": "",
+"location": "San Jose, CA",
+"profiles": [{
+"network": "LinkedIn",
+"url": "http://www.linkedin/in/yutingpang"
+},
+{
+"network": "Github",
+"url": "https://github.com/yutingpang"
+},
+{
+"network": "Leet Code",
+"url": "https://www.leetcode.com/yutingpang"
+},
+{
+"network": "Home Page",
+"url": "https://yutingpang.com"
+}]
+},
+"education": [{
+"name": "University of Texas at Dallas - M.S. Information Technology Management",
+"date": "2013"
+},
+{
+"name": "University of Shanghai for Science and Technology - B.E. Network Engineering",
+"date": "2009"
+},
+{
+"name": "CCNA",
+"date": "2014"
+}],
+"work": [{
+"company": "Cisco",
+"position": "System Engineer",
+"website": "http://www.cisco.com",
+"startDate": "April 2014",
+"endDate": "Present",
+"summary": "Work in infrastructure DevOps and full stack web development roll",
+"highlights": [
+"Full stack web developer in platform infrastructure team",
+"Responsible for design and implementation of a dynamic web apps for internal tool box and metrics reporting automation",
+"Maintained legacy systems and repos, resolving bugs and feature requests and performed testing"
+]},
+{
+"company": "Cetetek Technology Inc.",
+"position": "Backend Developer",
+"website": "http://www.cetetek.com/index.asp?iact=0&iwant=1",
+"startDate": "March 2013",
+"endDate": "April 2014",
+"summary": "Backend Engineer for a dynnamic web application",
+"highlights": [
+"Installed, Migrated, and configured Windows 2008 Server/VMWare ESX environments.",
+"Installed and configured network appliances including Netbox Blue, Watchguard, Sonicwall, Cisco and HP products.",
+"Managed and maintained application infrastructure such as Symantec Backup and Trend Micro AV.",
+"Configured and administered Windows services including IIS, MSSQL, Terminal Services, WDS, WSUS, SCOM and SCCM",
+"Onsite maintenance and troubleshooting of level 2/3 issues."
+]
+},
+{
+"company": "China Mobile",
+"position": "Network Engineer",
+"website": "http://www.chinamobileltd.com/en/global/home.php",
+"startDate": "March 2010",
+"endDate": "July 2011"
+}],
+"skills": [
+{
+"type": "Operating Systems",
+"keywords": [
+"Windows XP/Vista/7/8/8.1, Windows Server 2000/2003/2008/2011, Windows SBS 2003/2008/2011", "Mac OS X 10.7.5-10.9.4", "Debian Linux and flavours including Ubuntu, Backtrack", "iOS, Android, Windows Mobile","Wyse ThinOS"
+]
+}
+,
+{
+"type": "Software",
+"keywords": [
+"VMWare vSphere and ESX", "Microsoft IIS Server, Microsoft SQL Server 2003/2008/2011, Terminal Services, WDS, WSUS, SCOM, SCCM", "Apache, MySQL, FTP and SSH servers", "Symantec Products including Backup exec and Endpoint Protection", "CA ARCServe, Trend Micro","Citrix XenDesktop, XenApp and XenServer", "A large range of accounting software such as MYOB, APS, BGL, Handisoft and Quicken"
+]
+},
+{
+"type": "Languages",
+"keywords": [
+"Python 2/3, PHP, Java/Javascript, SQL, C/C++, BASH, VBS, PowerShell, .NET"
+]
+}
+]
+}
+
