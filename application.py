@@ -1,6 +1,5 @@
 import os, time
 from flask import Flask, render_template, json, make_response, g
-from flask_weasyprint import HTML, render_pdf
 from docx import Document
 
 os.environ['TZ'] = 'PDT'
@@ -50,11 +49,6 @@ def xml():
 @application.route('/json')
 def jsonpage():
     return render_template('json.html', json = json.dumps(g.json_data, indent=4, separators=(',', ': ')), obj = g.json_data)
-
-@application.route('/pdf')
-def pdf():
-    html = render_template('pdf.html', json=g.json_data, generated = time.strftime("%a, %d %b %Y %H:%M:%S PST"))
-    return render_pdf(HTML(string=html))
 
 @application.route('/download/json')
 def download_json():
