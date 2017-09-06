@@ -35,40 +35,40 @@ def json2xml(json_obj, line_padding=""):
 
 application = Flask(__name__)
 
-@app.before_request
+@application.before_request
 def before_request():
 	g.json_data = import_json()
 
-@app.route('/')
+@application.route('/')
 def index():
 	return render_template('index.html', json=g.json_data, generated=time.strftime("%a, %d %b %Y %H:%M:%S PST"))
 
-@app.route('/xml')
+@application.route('/xml')
 def xml():
 	return render_template('xml.html', xml=json2xml(g.json_data), obj=g.json_data)
 
-@app.route('/json')
+@application.route('/json')
 def jsonpage():
     return render_template('json.html', json = json.dumps(g.json_data, indent=4, separators=(',', ': ')), obj = g.json_data)
 
-@app.route('/pdf')
+@application.route('/pdf')
 def pdf():
-    html = render_template('pdf.html', json=g.json_data, generated = time.strftime("%a, %d %b %Y %H:%M:%S AEST"))
+    html = render_template('pdf.html', json=g.json_data, generated = time.strftime("%a, %d %b %Y %H:%M:%S PST"))
     return render_pdf(HTML(string=html))
 
-@app.route('/download/json')
+@application.route('/download/json')
 def download_json():
     response = make_response(json.dumps(g.json_data, indent=4, separators=(',', ': ')))
     response.headers["Content-Disposition"] = "attachment; filename=resume.json"
     return response
 
-@app.route('/download/xml')
+@application.route('/download/xml')
 def download_xml():
     response = make_response(json2xml(g.json_data))
     response.headers["Content-Disposition"] = "attachment; filename=resume.xml"
     return response
 
-@app.route('/docx')
+@application.route('/docx')
 def download_docx():
     generate_docx(g.json_data)
     with open("static/resume.docx", 'r') as f:
