@@ -61,8 +61,8 @@
 "Installed, Migrated, and configured Windows 2008 Server/VMWare ESX environments.",
 "Installed and configured network appliances including Netbox Blue, Watchguard, Sonicwall, Cisco and HP products.",
 "Managed and maintained application infrastructure such as Symantec Backup and Trend Micro AV.",
-"Configured and administered Windows services including IIS, MSSQL, Terminal Services, WDS, WSUS, SCOM and SCCM",
-"Onsite maintenance and troubleshooting of level 2/3 issues."
+"Responsible for data collecting and database design and maintenance",
+"Onsite maintenance and troubleshooting of level 2/3 issues"
 ]
 },
 {
@@ -70,26 +70,30 @@
 "position": "Network Engineer",
 "website": "http://www.chinamobileltd.com/en/global/home.php",
 "startDate": "March 2010",
-"endDate": "July 2011"
+"endDate": "July 2011",
+"summary": "Onsite suppurt for L2/L3 issues in a 120+ windows/osx mixed envirnment",
+"highlights": [
+"Responsible for network troubleshooting in a 24X7 envirnment"
+]
 }],
 "skills": [
 {
 "type": "Operating Systems",
 "keywords": [
-"Windows XP/Vista/7/8/8.1, Windows Server 2000/2003/2008/2011, Windows SBS 2003/2008/2011", "Mac OS X 10.7.5-10.9.4", "Debian Linux and flavours including Ubuntu, Backtrack", "iOS, Android, Windows Mobile","Wyse ThinOS"
+"CentOS Linux","Debian Linux and flavours including Ubuntu, Backtrack","Windows XP/Vista/7/8/8.1, Windows Server, Windows","Mac OS X","iOS, Android, Windows Mobile","Wyse ThinOS"
 ]
 }
 ,
 {
 "type": "Software",
 "keywords": [
-"VMWare vSphere and ESX", "Microsoft IIS Server, Microsoft SQL Server 2003/2008/2011, Terminal Services, WDS, WSUS, SCOM, SCCM", "Apache, MySQL, FTP and SSH servers", "Symantec Products including Backup exec and Endpoint Protection", "CA ARCServe, Trend Micro","Citrix XenDesktop, XenApp and XenServer", "A large range of accounting software such as MYOB, APS, BGL, Handisoft and Quicken"
+"VMWare vSphere and ESX", "Microsoft IIS Server, Microsoft SQL Server, Terminal Services", "Apache, MySQL, FTP and SSH servers","Citrix XenDesktop, XenApp and XenServer"
 ]
 },
 {
 "type": "Languages",
 "keywords": [
-"Python 2/3, PHP, Java/Javascript, SQL, C/C++, BASH, VBS, PowerShell, .NET"
+"Python 2/3, Perl, PHP, Java/Javascript, SQL, C/C++, BASH, VBS, PowerShell, .NET, HTML, node.js, jQuery, css"
 ]
 }
 ]
