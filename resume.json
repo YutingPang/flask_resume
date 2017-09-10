@@ -44,11 +44,13 @@
 "website": "http://www.cisco.com",
 "startDate": "April 2014",
 "endDate": "Present",
-"summary": "Work in infrastructure DevOps and full stack web development role",
+"summary": "Web developer managing and maintaining Cisco large scale online Demo and education delivery website for lab learning and virtual training. Responsible for internal management tool developing and network monitoring system provision and implementation.",
 "highlights": [
-"Full stack web developer in platform infrastructure team",
-"Responsible for design and implementation of a dynamic web apps for internal tool box and metrics reporting automation",
-"Maintained legacy systems and repos, resolving bugs and feature requests and performed testing"
+"Responsible for developing, automating and maintaining a dynamtic web applications for metrics reporting and automation with Python and Tableau",
+"Responsible for platform content validation and promotion within VMware service and NetApp storage.",
+"Designed, developed and maitainted lab scheduling and management tool with Perl.",
+"Developed internal web service to automate VMware provision and configuration.",
+"Maintained legacy systems and repos, resolving bugs and feature requests and performed testing."
 ]},
 {
 "company": "Cetetek Technology Inc.",
@@ -58,11 +60,11 @@
 "endDate": "April 2014",
 "summary": "Backend Engineer for a dynnamic web application",
 "highlights": [
-"Installed, Migrated, and configured Windows 2008 Server/VMWare ESX environments.",
-"Installed and configured network appliances including Netbox Blue, Watchguard, Sonicwall, Cisco and HP products.",
-"Managed and maintained application infrastructure such as Symantec Backup and Trend Micro AV.",
-"Responsible for data collecting and database design and maintenance",
-"Onsite maintenance and troubleshooting of level 2/3 issues"
+"Used PHP&jQuery to build a web crawler to fetch merchants’ information from Internet",
+"Worked in a data analyst role and dealing with, clearing up merchants’ data",
+"Developed and maintaining database of application using MySQL",
+"Tested and validated work produced as part of the development process",
+"Working with a multi-disciplinary team to convert business needs into technical specifications.",
 ]
 },
 {
@@ -71,9 +73,12 @@
 "website": "http://www.chinamobileltd.com/en/global/home.php",
 "startDate": "March 2010",
 "endDate": "July 2011",
-"summary": "Onsite suppurt for L2/L3 issues in a 120+ windows/osx mixed envirnment",
+"summary": "Responsible for maintaining and installing computer networks based around Linus Server Technologies. Working as part of a team and operating in a fast paced, changing and challenging 24x7 environment",
 "highlights": [
-"Responsible for network troubleshooting in a 24X7 envirnment"
+"Provided tier 2 technical support for 200+ Windows/Mac users for system and network related issues",
+"Performed firewall administration and network topology configuration, improved network stability and security.",
+"Managed and monitored virtual server environments.",
+"Deployed and implemented file collaboration application in Linux environment."
 ]
 }],
 "skills": [
