@@ -44,10 +44,10 @@
 "website": "http://www.cisco.com",
 "startDate": "April 2014",
 "endDate": "Present",
-"summary": "Web developer managing and maintaining Cisco large scale online Demo and Education delivery website for lab learning and virtual training. Responsible for internal management tool developing and network monitoring system provision and implementation.",
+"summary": "Web developer responsible for managing and maintaining Cisco large scale online Demo and Education delivery website for lab learning and virtual training. Responsible for internal management tool developing and network monitoring system provision and implementation.",
 "highlights": [
 "Responsible for developing, automating and maintaining a dynamtic web applications for metrics reporting and automation with Python and Tableau",
-"Responsible for platform content validation and promotion within VMware service and NetApp storage.",
+"Perform platform content validation and promotion within VMware service and NetApp storage.",
 "Designed, developed and maitainted lab scheduling and management tool with Perl.",
 "Developed internal web service to automate VMware provision and configuration.",
 "Maintained legacy systems and repos, resolving bugs and feature requests and performed testing."
@@ -58,7 +58,7 @@
 "website": "http://www.cetetek.com/index.asp?iact=0&iwant=1",
 "startDate": "March 2013",
 "endDate": "April 2014",
-"summary": "Backend Engineer developed and maintained a local search application. Responsible for capturing merchants' information, crawled data for application increase 400%+ in 3 months",
+"summary": "Backend Engineer responsible for developing and maintaining a local search application. Responsible for capturing merchants' information, crawled data for application increase 400%+ in 3 months",
 "highlights": [
 "Used PHP&jQuery to build a web crawler to fetch merchants information from Internet",
 "Worked in a data analyst role and dealing with, clearing up merchants data",
