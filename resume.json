@@ -92,7 +92,7 @@
 {
 "type": "Software",
 "keywords": [
-"VMWare vSphere and ESX", "Microsoft IIS Server, Microsoft SQL Server, Terminal Services", "Apache, MySQL, FTP and SSH servers","Citrix XenDesktop, XenApp and XenServer","Heroku","Amazon web service"
+"Terraform","Git","Docker","Heroku","VMWare vSphere and ESX", "Microsoft IIS Server, Microsoft SQL Server, Terminal Services", "Apache, MySQL, FTP and SSH servers","Citrix XenDesktop, XenApp and XenServer","Heroku","Amazon web service"
 ]
 },
 {
